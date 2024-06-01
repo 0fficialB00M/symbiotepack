@@ -1,0 +1,8 @@
+{
+   "teleport": {
+     "sounds": [
+        "suit/teleport"
+     ],
+     "category": "player"
+   }  
+}
